@@ -8,8 +8,11 @@
 - Upon reloading the page, the app loads the last played audio file.
 - The app utilizes the standard built-in HTML audio player for playback.
 
+## Output Images:
+![Output Image 1](outputs/1.JPG)
+![Output Image 2](outputs/2.JPG)
+
 ## Limitations:
 - Due to browser limitations, storing more than 2 audio files (or more than 5mb) in local storage can result in exceeding storage quotas. This can lead to errors or unexpected behavior when attempting to store additional files.
-
 ## Conclusion:
 All the requirements were successfully accomplished in the Audio Player app.
